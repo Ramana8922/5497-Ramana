@@ -1,6 +1,5 @@
 # 5497-Ramana
 
-
  Team Details
   Boddana Ramana(team lead)
   Althi Naresh
